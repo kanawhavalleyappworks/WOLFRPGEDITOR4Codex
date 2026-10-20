@@ -1,0 +1,777 @@
+{
+  "review_date": "2026-10-20",
+  "scope": "Official Help HTML pages reachable through its menu and internal HTML links; no image/archive mirroring",
+  "raw_material_bundled": false,
+  "pages": [
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/",
+      "title": "WOLF RPGエディター 説明書",
+      "file": "index.html",
+      "sha256": "c66afe9fb643fdaa3c25d9c494c6288ed68acec53d35d8dd9375c645d04f5b88",
+      "characters": 4613,
+      "retrieved_utc": "2026-10-20T17:41:56.532475+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/00_menu.html",
+      "title": "メニュー",
+      "file": "00_menu.html",
+      "sha256": "71a6c83b31b2bac2003896e96502bc4718e6c36814f61e1d1ba892e0913033bf",
+      "characters": 689,
+      "retrieved_utc": "2026-10-20T17:41:56.475001+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/01FAQ.html",
+      "title": "よくある質問",
+      "file": "01FAQ.html",
+      "sha256": "dba8950a36fd68bde92835e17c726c33a4c9c3d281a3d6c29637f493632e4153",
+      "characters": 13915,
+      "retrieved_utc": "2026-10-20T17:41:57.516363+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/01control.html",
+      "title": "基本操作",
+      "file": "01control.html",
+      "sha256": "39f9354662d2a099db62eb906058dc3a098627bae3d0598b4c3f12975d85c937",
+      "characters": 5831,
+      "retrieved_utc": "2026-10-20T17:41:57.406489+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/01debug.html",
+      "title": "デバッグコマンド一覧",
+      "file": "01debug.html",
+      "sha256": "c8db28a7a0f3fe5c8c789d02203049e8d68eb9bb6eb798ab7bc60b5ae61dcc2e",
+      "characters": 4450,
+      "retrieved_utc": "2026-10-20T17:41:57.326986+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/01filelist.html",
+      "title": "ファイルの説明",
+      "file": "01filelist.html",
+      "sha256": "56a2207e7c5c3fb4cf206d11ea12f0262d0004f651da2986ad207e8abe9fb915",
+      "characters": 3776,
+      "retrieved_utc": "2026-10-20T17:41:57.121855+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/01guide.html",
+      "title": "ツールの特徴・機能紹介",
+      "file": "01guide.html",
+      "sha256": "7aeed268ef3401082e74acc91d7b45b2b480ece10d63e6623954cd3cab635a5d",
+      "characters": 2358,
+      "retrieved_utc": "2026-10-20T17:41:57.726866+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/01specifi.html",
+      "title": "ウディタ内の暗黙の仕様",
+      "file": "01specifi.html",
+      "sha256": "4a94bda5846d41a9a576a1fbff7bfdd8a3dc4bd9b6cf8750f6f72a51060ac834",
+      "characters": 10471,
+      "retrieved_utc": "2026-10-20T17:41:58.339409+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/02_file_crypt_pro.html",
+      "title": "[P]ファイル個別暗号化",
+      "file": "02_file_crypt_pro.html",
+      "sha256": "8fcfa99cbf54d1ceb18f264787ec4f52256b87361962a678fad8d11467a2558f",
+      "characters": 5090,
+      "retrieved_utc": "2026-10-20T17:41:58.143227+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/02commonev.html",
+      "title": "コモンイベントの設定",
+      "file": "02commonev.html",
+      "sha256": "8b78d68ef9eb9b47eb423c94ab22fc0ce634192961167d7879694c83453881cc",
+      "characters": 3691,
+      "retrieved_utc": "2026-10-20T17:41:58.085802+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/02editor_option.html",
+      "title": "ゲーム設定",
+      "file": "02editor_option.html",
+      "sha256": "250a45aa361d6898a6fce524763fa3baff5e892d43134fb3ec82a9294ce18083",
+      "characters": 2262,
+      "retrieved_utc": "2026-10-20T17:41:58.326414+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/02editor_option_pro.html",
+      "title": "ゲーム設定",
+      "file": "02editor_option_pro.html",
+      "sha256": "05d9348e4e2c26c9c59c9278d60d2cebb1db7ba1e7912b5d0f120aee94410b41",
+      "characters": 186,
+      "retrieved_utc": "2026-10-20T17:41:58.643429+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/02gamemake.html",
+      "title": "ゲームデータの作成",
+      "file": "02gamemake.html",
+      "sha256": "89403db60b5c29184fc688327f8cb83f34a010a3c844e747af9f9b003b8d1593",
+      "characters": 1616,
+      "retrieved_utc": "2026-10-20T17:41:58.749045+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/02gamemake_pro.html",
+      "title": "ゲームデータの作成",
+      "file": "02gamemake_pro.html",
+      "sha256": "535b422ba1f3ac5cf0d0c8ba9ae4b39ee6eb3db81afeb1a9d76752c9fe605eb3",
+      "characters": 699,
+      "retrieved_utc": "2026-10-20T17:41:58.923984+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/02gamesetting.html",
+      "title": "ゲーム設定",
+      "file": "02gamesetting.html",
+      "sha256": "cbca9b5b9c514b033acca4e3c2e1a01d0a5d7aaf24ec9af32330065e5370dbd8",
+      "characters": 8447,
+      "retrieved_utc": "2026-10-20T17:41:59.081413+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/02gamesetting_pro.html",
+      "title": "ゲーム設定 プロ版",
+      "file": "02gamesetting_pro.html",
+      "sha256": "ac8023ec96dd3ee70385da7ace0b2838a3efb7d3f785a0a84d6b23d32a48af6b",
+      "characters": 2540,
+      "retrieved_utc": "2026-10-20T17:41:59.219025+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/02mainwindow.html",
+      "title": "メインウィンドウ",
+      "file": "02mainwindow.html",
+      "sha256": "a2e45adf09f121300fff5644e63b473e793e1d91ce5cde80ee125253dc3325aa",
+      "characters": 1549,
+      "retrieved_utc": "2026-10-20T17:41:59.304895+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/02mapselector.html",
+      "title": "マップ選択",
+      "file": "02mapselector.html",
+      "sha256": "18fc1382c958b3c00fddfc4715e46022f253e492fefb1b51d4e2f1c3c7a76d61",
+      "characters": 997,
+      "retrieved_utc": "2026-10-20T17:41:59.478619+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/02mapsetting.html",
+      "title": "マップの基本設定",
+      "file": "02mapsetting.html",
+      "sha256": "f37c5b09ab2b2943a74a10e1ca57f306546625289f5438faf116d040f5e7f4a5",
+      "characters": 434,
+      "retrieved_utc": "2026-10-20T17:41:59.676465+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/02tasklist.html",
+      "title": "タスクリスト",
+      "file": "02tasklist.html",
+      "sha256": "61696b7862386df66413313ecf6632ac84e29248a964c7c556fb86c4f4091fd7",
+      "characters": 830,
+      "retrieved_utc": "2026-10-20T17:41:59.866021+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/02tileset.html",
+      "title": "タイルセット設定",
+      "file": "02tileset.html",
+      "sha256": "90962830b9ee06cbba0cfde3a9545942309517c88876b86099846c7ad3024983",
+      "characters": 2059,
+      "retrieved_utc": "2026-10-20T17:41:59.897016+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/02ver_ajust.html",
+      "title": "ゲーム設定",
+      "file": "02ver_ajust.html",
+      "sha256": "be3f6f0730e57b03d68e16cce5b592bf0753f3f2da828c90308312a9c39549ca",
+      "characters": 14360,
+      "retrieved_utc": "2026-10-20T17:42:00.488387+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/03mapautomake.html",
+      "title": "B.自動マップ生成機能",
+      "file": "03mapautomake.html",
+      "sha256": "954a6a40e41582d5c8524482451efbd370ea07cb9fb6fa09cd03efba4d040aa9",
+      "characters": 383,
+      "retrieved_utc": "2026-10-20T17:42:00.233966+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/03mapmain.html",
+      "title": "マップ作成の流れ",
+      "file": "03mapmain.html",
+      "sha256": "da256453ef76d6568c86a28c13522f3506f5edc810c4cb4d0a3933b5a3278657",
+      "characters": 469,
+      "retrieved_utc": "2026-10-20T17:42:00.530214+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/03mapmake.html",
+      "title": "1.マップの新規作成から登録まで",
+      "file": "03mapmake.html",
+      "sha256": "ce18c7842afad06eb7c54718623aa25dc9aedae067d3bada7acf07a6a79712fe",
+      "characters": 1215,
+      "retrieved_utc": "2026-10-20T17:42:00.454262+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/03mapstartpos.html",
+      "title": "2.スタート位置の設定",
+      "file": "03mapstartpos.html",
+      "sha256": "5caa491bd2638d88472ad13edccf378ffad0805353aa855000e02d87553992d3",
+      "characters": 391,
+      "retrieved_utc": "2026-10-20T17:42:00.795016+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_calc.html",
+      "title": "計算式の説明",
+      "file": "04ev_calc.html",
+      "sha256": "7f13bebf28f3a431703d9dab1618a327a719160a90d45251994aa3b6e3e347a3",
+      "characters": 2327,
+      "retrieved_utc": "2026-10-20T17:42:01.143398+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_chip.html",
+      "title": "チップ処理",
+      "file": "04ev_chip.html",
+      "sha256": "ae3612ee33fa7b5049f06d6b36d31173eae7cecae800c98e020bfe6ab18ad577",
+      "characters": 746,
+      "retrieved_utc": "2026-10-20T17:42:01.153953+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_common.html",
+      "title": "その他2",
+      "file": "04ev_common.html",
+      "sha256": "b0bdfb7b4432bb3978e310d07d0fe39c104aac57afaec6421701bc6677dfe305",
+      "characters": 1233,
+      "retrieved_utc": "2026-10-20T17:42:01.094806+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_control.html",
+      "title": "イベント制御",
+      "file": "04ev_control.html",
+      "sha256": "728151f0dfbc65cf0302ee3a67871621af67dcf4ab16544ee1e05e7e7515755e",
+      "characters": 1915,
+      "retrieved_utc": "2026-10-20T17:42:01.342649+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_db.html",
+      "title": "DB（データベース）操作",
+      "file": "04ev_db.html",
+      "sha256": "7f12b7b99f825173914b8e978e4a64b70bb9c593d3b9529a4cc2cf29fc09cdbd",
+      "characters": 4883,
+      "retrieved_utc": "2026-10-20T17:42:01.929769+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_download.html",
+      "title": "ダウンロード",
+      "file": "04ev_download.html",
+      "sha256": "309aade6b4211db26008b369d1213c0b9674207ae50b36d6aa7d37512ce94cdc",
+      "characters": 2909,
+      "retrieved_utc": "2026-10-20T17:42:01.709098+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_download_pro.html",
+      "title": "ダウンロード",
+      "file": "04ev_download_pro.html",
+      "sha256": "6ab8cec8643776f8a5e982da395e6c032dae907fe11dee51d63ae1c6891c0a99",
+      "characters": 352,
+      "retrieved_utc": "2026-10-20T17:42:01.718096+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_effect.html",
+      "title": "エフェクト",
+      "file": "04ev_effect.html",
+      "sha256": "16f5fb831f68b0e9eb1d5024dfc8d0d92390b4bf714a679b6c080ff120e39980",
+      "characters": 12027,
+      "retrieved_utc": "2026-10-20T17:42:02.402089+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_effect_Pro.html",
+      "title": "エフェクト",
+      "file": "04ev_effect_Pro.html",
+      "sha256": "94653a199d4242594f0125025464d2984f023fd2c00e0b17e999268a43470bc9",
+      "characters": 1217,
+      "retrieved_utc": "2026-10-20T17:42:02.256063+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_file.html",
+      "title": "セーブ・ロード操作",
+      "file": "04ev_file.html",
+      "sha256": "aa159a2b59082fb8a3df9ee90be6837b06d33603f99657cd4a279ec0bd342c30",
+      "characters": 2751,
+      "retrieved_utc": "2026-10-20T17:42:02.382167+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_fileselect.html",
+      "title": "ファイル選択",
+      "file": "04ev_fileselect.html",
+      "sha256": "cc51fe4d6561f85d55b16b260450758c9c38fc975be3088e7a177f5617fffb5d",
+      "characters": 0,
+      "retrieved_utc": "2026-10-20T17:42:02.597833+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "wrapper/illustration; no standalone technical text"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_ifstring.html",
+      "title": "条件分岐（文字列）",
+      "file": "04ev_ifstring.html",
+      "sha256": "d7ffb7a4fbfc016414d7800cabdb40ec55144d8a72b6216066ca7833ac6c5319",
+      "characters": 1320,
+      "retrieved_utc": "2026-10-20T17:42:02.811716+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_ifvalue.html",
+      "title": "条件分岐（変数）",
+      "file": "04ev_ifvalue.html",
+      "sha256": "3215bd4cb81826d70d730a687c5a1e19c97ecb52faadcaa86057f41bf02a67ff",
+      "characters": 1428,
+      "retrieved_utc": "2026-10-20T17:42:02.934350+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_keyinput.html",
+      "title": "キー入力",
+      "file": "04ev_keyinput.html",
+      "sha256": "71a2948202817ba4a33c8c94a5f13222013214f0991e39b17a2aedc0484a74f9",
+      "characters": 6024,
+      "retrieved_utc": "2026-10-20T17:42:03.163406+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_movepos.html",
+      "title": "場所移動",
+      "file": "04ev_movepos.html",
+      "sha256": "e65ef137f6a164c2efb2165ba284e71502865bd96677acf722cce36c2eff74ed",
+      "characters": 1126,
+      "retrieved_utc": "2026-10-20T17:42:03.151407+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_movesetting.html",
+      "title": "動作指定",
+      "file": "04ev_movesetting.html",
+      "sha256": "b905e8b653ca455a5ff9bad6f994d2c799cb5687656dbc8f886ec64fdc48c41b",
+      "characters": 0,
+      "retrieved_utc": "2026-10-20T17:42:03.353700+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "wrapper/illustration; no standalone technical text"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_party.html",
+      "title": "パーティ画像",
+      "file": "04ev_party.html",
+      "sha256": "1581527553b406bfe8b7fd6e2adf3945418a4e1f8c414181b3c8a1aa56002580",
+      "characters": 1492,
+      "retrieved_utc": "2026-10-20T17:42:03.609223+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_picture.html",
+      "title": "ピクチャ",
+      "file": "04ev_picture.html",
+      "sha256": "a09bbac2988cc1fc2f81b365971a7bd432a43aa2b8999798a1aaa0824449c8df",
+      "characters": 9654,
+      "retrieved_utc": "2026-10-20T17:42:03.897464+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_pro_command.html",
+      "title": "プロ版機能",
+      "file": "04ev_pro_command.html",
+      "sha256": "a831eab7895abae19a3ecc97ba017270b998332be0489ce1888b3f67a131ae1d",
+      "characters": 2631,
+      "retrieved_utc": "2026-10-20T17:42:03.747568+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_select.html",
+      "title": "選択肢",
+      "file": "04ev_select.html",
+      "sha256": "51ea2c61184af8593f2c6908e69bc6fa273c1fc3a88f8af429efb793fe9d04d8",
+      "characters": 1099,
+      "retrieved_utc": "2026-10-20T17:42:03.962792+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_sound.html",
+      "title": "サウンド",
+      "file": "04ev_sound.html",
+      "sha256": "72775fcb0ee0ea317ef19c5e13176440cbd7f15e6677e7fba6f9fe13228aaef7",
+      "characters": 4049,
+      "retrieved_utc": "2026-10-20T17:42:04.522627+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_string.html",
+      "title": "文字列操作",
+      "file": "04ev_string.html",
+      "sha256": "9755f0666508ee0a3250a0696157af09c862175601658f2faff5dc9b7a47a84f",
+      "characters": 4781,
+      "retrieved_utc": "2026-10-20T17:42:04.304470+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_string_specialcode.html",
+      "title": "文字列操作",
+      "file": "04ev_string_specialcode.html",
+      "sha256": "8c678051717e85022177438c4745eb30b07c360032296dfeeaa7228561ebad38",
+      "characters": 21448,
+      "retrieved_utc": "2026-10-20T17:42:05.223210+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_text.html",
+      "title": "文章の表示",
+      "file": "04ev_text.html",
+      "sha256": "2c4ab602f09a376c59b532dd2655ebf471782e411a73047a413dac9c1bd0f3b7",
+      "characters": 4248,
+      "retrieved_utc": "2026-10-20T17:42:04.511402+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_value.html",
+      "title": "変数操作",
+      "file": "04ev_value.html",
+      "sha256": "7c6c599a5c202fb13de91fa3082c5a2cc018106fdc8b3110510914e5d5e4abfb",
+      "characters": 2335,
+      "retrieved_utc": "2026-10-20T17:42:04.869334+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_valuenext.html",
+      "title": "変数操作＋",
+      "file": "04ev_valuenext.html",
+      "sha256": "b2f3051cfe2ba0b88267e4b4d4e84fe7203401726b6d60f97e304dcfeef0acf5",
+      "characters": 9902,
+      "retrieved_utc": "2026-10-20T17:42:05.293694+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04eventinput.html",
+      "title": "コマンド入力ウィンドウ",
+      "file": "04eventinput.html",
+      "sha256": "4b89634fc23a50a5ac3b563c62ef4458532ba2b0029aaab6847af13757e24a9c",
+      "characters": 544,
+      "retrieved_utc": "2026-10-20T17:42:05.169221+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04eventmain.html",
+      "title": "イベントの作成",
+      "file": "04eventmain.html",
+      "sha256": "16fbb2c75f495da21ed203c29f385ecf3eba5eb77e8f5b90c8591c5ca85f24ab",
+      "characters": 652,
+      "retrieved_utc": "2026-10-20T17:42:05.433575+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04eventwindow.html",
+      "title": "イベントウィンドウ",
+      "file": "04eventwindow.html",
+      "sha256": "8d8797a25bc73afd3120e65396d001b8ac986140adf8bee721cc4a88f3a478b6",
+      "characters": 0,
+      "retrieved_utc": "2026-10-20T17:42:05.834929+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "wrapper/illustration; no standalone technical text"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/05changedb.html",
+      "title": "可変データベース",
+      "file": "05changedb.html",
+      "sha256": "d69d3706240db074c9f01e80c7ed1b1b13f0f62a2a617885581c7582b1eec539",
+      "characters": 959,
+      "retrieved_utc": "2026-10-20T17:42:05.863150+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/05database.html",
+      "title": "データベース",
+      "file": "05database.html",
+      "sha256": "8cea4c33384b3a367ded230db0e9ce7567c8bcd9e03ef7b15d89933dd4ef6a41",
+      "characters": 2105,
+      "retrieved_utc": "2026-10-20T17:42:06.010120+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/05dbtype.html",
+      "title": "WOLF RPGエディター",
+      "file": "05dbtype.html",
+      "sha256": "513039868130decda878161f909965b50cf63b2c0aae4d88fc4092d2bdb9ec8a",
+      "characters": 2218,
+      "retrieved_utc": "2026-10-20T17:42:05.999121+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/05systemdb.html",
+      "title": "システムデータベース",
+      "file": "05systemdb.html",
+      "sha256": "74158723fe620858b38565b3a5c4319ded014632be2fb2b660cfdb5c37e6b8e8",
+      "characters": 362,
+      "retrieved_utc": "2026-10-20T17:42:06.409523+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/05systemtype.html",
+      "title": "システムDB 各タイプの説明",
+      "file": "05systemtype.html",
+      "sha256": "253e6ff086bdea0e4b3666c3068dafedf90a57d3a0f7ee3706d1f37c067b954f",
+      "characters": 2355,
+      "retrieved_utc": "2026-10-20T17:42:06.427754+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/05userdb.html",
+      "title": "ユーザデータベース",
+      "file": "05userdb.html",
+      "sha256": "face7e4b9d9e0b15f3552f5d62089c910e918bed878cf274ee372bc9aa9a0fa5",
+      "characters": 196,
+      "retrieved_utc": "2026-10-20T17:42:06.581130+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/06material.html",
+      "title": "素材規格",
+      "file": "06material.html",
+      "sha256": "83721029e7625cac676fe2c46130da99a3a03e655915ae72acd74c9af6590c25",
+      "characters": 9757,
+      "retrieved_utc": "2026-10-20T17:42:06.920098+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/06pro_version.html",
+      "title": "デバッグコマンド一覧",
+      "file": "06pro_version.html",
+      "sha256": "48aae114ba0b92cae927342044a80f2e9f6c9b8024d572021a991d1aafb553f1",
+      "characters": 5020,
+      "retrieved_utc": "2026-10-20T17:42:07.168994+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/06specialword.html",
+      "title": "特殊文字 一覧",
+      "file": "06specialword.html",
+      "sha256": "cee8ac95a334d8a5279d750cf76c011310590e450c1703ed2fb8138264c6fedb",
+      "characters": 5033,
+      "retrieved_utc": "2026-10-20T17:42:07.206684+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/06systemvalue.html",
+      "title": "システム変数/文字列一覧",
+      "file": "06systemvalue.html",
+      "sha256": "5af0b15a3397573726e51f4de0a3cc14ac3d3eee226bdf63bb54d0c19db4277a",
+      "characters": 18185,
+      "retrieved_utc": "2026-10-20T17:42:07.671333+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/06systemvalue_pro.html",
+      "title": "システム変数/文字列一覧",
+      "file": "06systemvalue_pro.html",
+      "sha256": "b9a10c19210d2e3d10ac2499d31148bd7432703ad69ab658b6d5f2068f0413a5",
+      "characters": 4008,
+      "retrieved_utc": "2026-10-20T17:42:07.787630+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/06tools.html",
+      "title": "便利なツール紹介",
+      "file": "06tools.html",
+      "sha256": "c547f5c84e3f3c3878cc882b28ff617d84b5e51c3668b8af75a32a0b9a1ced45",
+      "characters": 4178,
+      "retrieved_utc": "2026-10-20T17:42:07.965353+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/06valueget.html",
+      "title": "変数呼び出し値　一覧",
+      "file": "06valueget.html",
+      "sha256": "ed0f501498319ebf16c4d7b1c47f911134fae1fe757825b47dff4c497aa1c199",
+      "characters": 1214,
+      "retrieved_utc": "2026-10-20T17:42:07.871373+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/02gamesetting_Pro.html",
+      "title": "SilverSecond 404 Not Found",
+      "file": "02gamesetting_Pro.html",
+      "sha256": "d2174b75a5e391f8c182766ee1481e3748a160b97335d2540c1ed0e1e4ece9ba",
+      "characters": 78,
+      "retrieved_utc": "2026-10-20T17:42:10.011832+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "soft-404; no technical evidence"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/03mappossave.html",
+      "title": "A.移動先の登録機能",
+      "file": "03mappossave.html",
+      "sha256": "bc6cb1c6c25c459abf1704f4bfdaadeb5a9ae600bec8f2bced445d4fe9001f2a",
+      "characters": 769,
+      "retrieved_utc": "2026-10-20T17:42:08.667106+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_fileselectA.html",
+      "title": "ファイルの選択",
+      "file": "04ev_fileselectA.html",
+      "sha256": "4cbe5801859b75c6a5048821c91ae6eb82a49fbfa7f0fd05123a99dd4d8d4123",
+      "characters": 9,
+      "retrieved_utc": "2026-10-20T17:42:08.596621+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "wrapper/illustration; no standalone technical text"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_fileselectB.html",
+      "title": "ファイル選択",
+      "file": "04ev_fileselectB.html",
+      "sha256": "9f80d7e2a65feb6710541b371f2e9070e01ff689c4314dd30f1d1657bf6f125d",
+      "characters": 986,
+      "retrieved_utc": "2026-10-20T17:42:08.603621+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_movesettingA.html",
+      "title": "動作指定",
+      "file": "04ev_movesettingA.html",
+      "sha256": "0d0df12691efe1eaec51d1cf5381d3bbdfb96010566071b59cc02b56a0570eb9",
+      "characters": 6,
+      "retrieved_utc": "2026-10-20T17:42:09.229853+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "wrapper/illustration; no standalone technical text"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04ev_movesettingB.html",
+      "title": "動作指定",
+      "file": "04ev_movesettingB.html",
+      "sha256": "ade4fce07b171ff3c79619fe0996d3a3cccf38867ad5abe883e819d7e4619d44",
+      "characters": 5237,
+      "retrieved_utc": "2026-10-20T17:42:09.361820+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04eventwindowA.html",
+      "title": "イベントウィンドウ",
+      "file": "04eventwindowA.html",
+      "sha256": "04a4df06cabb77202a46502464e09cb07b00de408cfb25c7210ae09919486fd0",
+      "characters": 11,
+      "retrieved_utc": "2026-10-20T17:42:09.239852+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "wrapper/illustration; no standalone technical text"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/04eventwindowB.html",
+      "title": "イベントウィンドウ",
+      "file": "04eventwindowB.html",
+      "sha256": "db79e1cd9f8b1a9337e0167f9a1d609d7d20443d68471ace58214796922a193c",
+      "characters": 6735,
+      "retrieved_utc": "2026-10-20T17:42:09.969259+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "retrieved for research; not a promise every paragraph was independently validated"
+    },
+    {
+      "url": "https://silversecond.com/WolfRPGEditor/Help/06systemvalue_Pro.html",
+      "title": "SilverSecond 404 Not Found",
+      "file": "06systemvalue_Pro.html",
+      "sha256": "d2174b75a5e391f8c182766ee1481e3748a160b97335d2540c1ed0e1e4ece9ba",
+      "characters": 78,
+      "retrieved_utc": "2026-10-20T17:42:10.806857+00:00",
+      "author": "SmokingWOLF / SilverSecond",
+      "status": "soft-404; no technical evidence"
+    }
+  ]
+}

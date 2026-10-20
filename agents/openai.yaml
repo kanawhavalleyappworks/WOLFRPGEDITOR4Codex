@@ -1,0 +1,4 @@
+interface:
+  display_name: "WOLF RPG Editor"
+  short_description: "Build and debug Woditor games with local references"
+  default_prompt: "Use $wolf-rpg-editor to inspect my WOLF RPG Editor project and implement a focused change using its supported editing workflow."

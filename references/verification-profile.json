@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-20",
+  "engine_file_version": "3.691.2026.408",
+  "source_files_before_after_equal": true,
+  "source_file_count": 677,
+  "source_total_bytes": 57435785,
+  "engine_sha256": {
+    "Editor.exe": "fd870f8680bfc824fa9c2c05ba1b3fa0ea10172ad235a0daebc3b18d68e79974",
+    "Game.exe": "2f060fb633a3d66eba8730c2a2aca66888dbece128c2e10c2561f04b4b8e977f"
+  },
+  "native_no_edit_round_trip": {
+    "files": {
+      "BasicData/CDataBase.Auto.txt": "3e5ef6c1f320a18134252374f8d80c9944c603a44340c9771ac1cae6a12af65d",
+      "BasicData/CommonEvent.dat.Auto.txt": "bebea30562adf90eb90d7a7f93a6a8399f29bac1dc588c42a10372a6cd22bfa6",
+      "BasicData/DataBase.Auto.txt": "f6f87ae5bdefcae1f7225c8f9e5dd197fa6d02ff68afb34af9d1d789cf01b1ff",
+      "BasicData/Game.dat.Auto.txt": "b70ad7c24f114b77afa6a12735f582b64fc09367e86fcfc006613226d72ebec7",
+      "BasicData/SysDataBase.Auto.txt": "4b1ec1604534e90005f597e4292758ef353c72d703fecd1defcf51a76006e19b",
+      "BasicData/TileSetData.dat.Auto.txt": "3da69fdb2385e96323f0b744c6b2f0e41a05c0d8dfe7e037b0f4b4641779b143",
+      "MapData/Dungeon.mps.Auto.txt": "af463a2755d7e7b88c2c79dd82bb65b938f6adec93b153a34da94e4f4374a2b0",
+      "MapData/SampleMapA.mps.Auto.txt": "fb5091e6f14ba9aee85c87ce71e80b759037966863886459984a29871c3fd56a",
+      "MapData/SampleMapB.mps.Auto.txt": "fb5c6dd4298bab8427c63fb4b30bbf7d0f632448645aa4dd3dda54703f9d79c9",
+      "MapData/TitleMap.mps.Auto.txt": "b8ff29c90b587bef6c9c178b1a90ef76b05466c443cc696aa3c6705ac05fbda6"
+    },
+    "byte_identical": true
+  },
+  "native_edit_probe": {
+    "key": "GAME_TITLE_MAIN",
+    "scope": "BASIC",
+    "readback_scope": "ALL",
+    "changed_exports": [
+      "BasicData/Game.dat.Auto.txt"
+    ],
+    "only_intended_string_changed": true
+  },
+  "not_tested": [
+    "gameplay",
+    "GUI interaction",
+    "save compatibility",
+    "Pro features"
+  ]
+}
