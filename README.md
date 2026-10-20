@@ -51,7 +51,3 @@ This is a substantial authoring reference, not a complete implementation of ever
 The canonical [sources and credits](references/sources.md) identify the four requested documentation sites, original authors, English translation contributors, and local verification material. The [research catalogue](references/source-catalog.md) lists inspected/fetched official URLs; its [JSON companion](references/source-catalog.json) records retrieval times and source hashes. Downloaded pages were research inputs, and are not included as a copied manual.
 
 WOLF RPG Editor is created by SmokingWOLF / SilverSecond. English translation credit: translation by Yumu, edited by Anya and Lolo. Sample-data translation by Yumu. This project is an independent Codex skill and is not an official WOLF distribution.
-
-## Git contents
-
-This folder is the repository-ready payload. Version `SKILL.md`, `README.md`, `VALIDATION.md`, `.gitignore`, `agents/`, `references/`, `scripts/`, and `tests/`. Keep engine installations, game projects, saves, downloaded source pages, temporary probes, local paths, and credentials outside the repository. No remote repository has been created or pushed by this build.
